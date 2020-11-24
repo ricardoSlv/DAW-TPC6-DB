@@ -1,0 +1,20 @@
+{
+    "tasks": [
+      {
+        "id": "vn9g60igf",
+        "title": "Passear o cão",
+        "due": "2020-12-01"
+      },
+      {
+        "id": "7ujoxmpmi",
+        "title": "Ver a final do Euro",
+        "due": "2016-07-10"
+      }
+      ,{
+        "id": "7ujoxm7mi",
+        "title": "Limpar a sala",
+        "due": "2020-11-25",
+        "completed": "2020-11-20"
+      }
+    ]
+  }
